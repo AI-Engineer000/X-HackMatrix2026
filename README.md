@@ -117,6 +117,10 @@ The detected signals are presented to the user rather than hiding the reasoning 
 
 <img width="900" alt="ScamShield Recent Scan History" src="https://github.com/user-attachments/assets/545ca1c4-634a-4e97-a912-fb0efe5b86c0" />
 
+## 🎥 Demo
+[Watch the ScamShield Demo]
+https://drive.google.com/drive/folders/1sgqRT83I3aPcYazY-o3-cgqYtMsLGY10
+
 ## 🏗️ System Architecture
 
 ```text
